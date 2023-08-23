@@ -1,4 +1,5 @@
-# extra_python
+# Ekstra Python / Extra_python
+Fordybelseskurser - hvis du vil fordybe dig i Python Scripting ud over din undervisning
 Immersion course - if you want to delve into Python scripting beyond your classes
 
 Tid / Time 
