@@ -1,5 +1,13 @@
-# Ekstra Python / Extra Python
+# Titel / Title
+DA:
+Ekstra Python
+EN:
+Extra Python
+
+# Undertitel / Subtitle
+DA:
 Fordybelseskurser - hvis du vil fordybe dig i Python Scripting ud over din undervisning
+EN:
 Immersion course - if you want to delve into Python scripting beyond your classes
 
 Tid / Time 
