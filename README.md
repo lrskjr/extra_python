@@ -28,7 +28,7 @@ Ekstra Python 1
 - hvis du vil fordybe dig i Python Scripting ud over din undervisning
 Strings, list, dictionaries og loops
 På workshoppen er der mulighed for at skifte bekendtskab med nogle af de grundlæggende begreber i Python.
-Det vil sige variabler, datatyperne strings og lists, indbyggede metoder og funktioner, samt ‘for loops’ og ‘while loops’. 
+Det vil sige variabler, strings, list, dictionaries og loops, indbyggede metoder og funktioner, samt ‘for loops’ og ‘while loops’. 
 Workshoppen foregår i undervisningslokalet på biblioktet på Søndre Campus (1. sal).
 
 EN:
@@ -36,7 +36,7 @@ Extra Python 1
 - if you want to delve into Python scripting beyond your classes
 Strings, lists, dictionaries, and loops
 At the workshop, there's an opportunity to become acquainted with some of the fundamental concepts in Python.
-That includes variables, the data types of strings and lists, built-in methods and functions, as well as 'for loops' and 'while loops'.
+This means variables, strings, lists, dictionaries and loops, built-in methods and functions, as well as 'for loops' and 'while loops'.
 The workshop takes place in the classroom at the library on South Campus (First floor).
 
 
