@@ -11,9 +11,9 @@ EN:
 Immersion course - if you want to delve into Python scripting beyond your classes
 
 Tid / Time 
-22 September 10 - 12
-29 September 10 - 12
-6 October 10 - 12
+- 22 September 10 - 12
+- 29 September 10 - 12
+- 6 October 10 - 12
 
 Sted / Place
 Undervisningslokalet på biblioktet på Søndre Campus (første sal).
