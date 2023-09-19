@@ -1,3 +1,7 @@
+I mappen kode ligger de notebooks, som hører til de tre forskellige Ekstra Python kurser.  
+
+In the code folder are the notebooks that belong to the three different Extra Python courses.
+
 # Titel / Title
 DA:
 Ekstra Python
