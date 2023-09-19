@@ -59,10 +59,8 @@ Pandas er et 'must', hvis man bruger Python til at arbejde data som er systemati
 Workshoppen foregår i undervisningslokalet på biblioteket på Søndre Campus (første sal).
 
 EN:
-Extra Python 2
+Extra Python 2 - Data Analysis with Pandas
 - if you want to delve into Python scripting beyond your classes
-- 
-Data Analysis with Pandas
 
 The purpose of the workshop is to enhance familiarity with dataframes and the most commonly used functions.
 Pandas is a 'must' if you use Python for working with data that is organized and structured in rows and columns.
