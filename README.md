@@ -24,7 +24,7 @@ Undervisningslokalet på biblioktet på Søndre Campus (første sal).
 The classroom at the library on South Campus (First floor)
 
 
-Kursusbeskrivelser / Course Descriptions
+## Kursusbeskrivelser / Course Descriptions
 
 DA:
 22. september 10 - 12
